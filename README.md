@@ -2,9 +2,9 @@
 
 ---
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github.com/augustojaml/augustojaml/blob/main/card.jpg" width="100%" title="Intro Card" alt="Intro Card">
-</p>
+</p> -->
 
 Hello, I'm a Web Developer at the company [Matraca Comunicação Criativa](https://matraca.com.br).
 
