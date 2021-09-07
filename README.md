@@ -3,7 +3,7 @@
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/jaugustomonteiro/jaugustomonteiro/main/Card.jpg" width="100%" title="Intro Card" alt="Intro Card">
+  <img src="https://github.com/augustojaml/augustojaml/card.jpg" width="100%" title="Intro Card" alt="Intro Card">
 </p>
 
 Hello, I'm a Web Developer at the company [Matraca Comunicação Criativa](https://matraca.com.br).
@@ -48,6 +48,6 @@ Hello, I'm a Web Developer at the company [Matraca Comunicação Criativa](https
 
 ---
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=augustojm&show_icons=true&hide_border=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=augustojaml&show_icons=true&hide_border=true)
 
-Check for a detailed stats here :point_right: [Augusto Monteiro](https://github.com/jaugustomonteiro)
+Check for a detailed stats here :point_right: [Augusto Monteiro](https://github.com/augustojaml)
