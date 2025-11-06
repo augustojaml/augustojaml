@@ -134,23 +134,4 @@ Aqui vai uma versão com mais personalidade, ícones e trechos que mostram como 
 
 ---
 
-## ✨ Animações das stacks
-
-Aqui vão algumas animações leves para dar vida às stacks que eu domino. Usei uma animação de "typing" (SVG) para mostrar as stacks em loop — é leve e compatível com GitHub README.
-
-- Animação (typing) — stacks principais:
-
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00c8ff&width=700&lines=React;Node.js;TypeScript;Docker;PostgreSQL)
-
-- Badges animadas opcionais (texto animado simples via same service):
-
-![React badge](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=800&color=61DAFB&width=300&lines=React) ![Node badge](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=800&color=3C873A&width=300&lines=Node.js) ![Docker badge](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=800&color=2496ED&width=300&lines=Docker)
-
-> Observações:
-
-- O `readme-typing-svg` gera SVGs animados (typing) e funciona bem em READMEs do GitHub.
-- Se quiser GIFs com movimento mais complexo (pulsações, microinterações), posso adicionar GIFs hospedados em `assets/` neste repositório ou linkar GIFs públicos (Giphy/Imgur). Quer que eu crie a pasta `assets/` e coloque alguns GIFs de exemplo? (sim/não)
-
-Nota importante: essas animações são apenas enfeites visuais para deixar o README mais vivo — não representam certificados ou entregas formais. 😉
-
----
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=800&color=00c8ff&width=800&lines=Node.js;TypeScript;React;React%20Native;PHP;Python;JavaScript;Express;Next.js;MongoDB)
