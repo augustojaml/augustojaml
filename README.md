@@ -2,6 +2,8 @@
 
 ---
 
+🌿 **Frase-tema:** "A vida feliz consiste na tranquilidade da mente." ✨🧘‍♂️
+
 Sou desenvolvedor web na [Matraca Comunicação Criativa](https://matraca.com.br) — gosto de transformar ideias em sites rápidos, responsivos e com boa história.
 
 ### Onde me encontrar 🌍
@@ -38,6 +40,15 @@ Sou desenvolvedor web na [Matraca Comunicação Criativa](https://matraca.com.br
 🛠️ Ferramentas preferidas
 
 <img src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF"> <img src="http://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=FFFFFF"> <img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white"> <img src="https://img.shields.io/badge/-npm-CB3837?style=flat&logo=npm&logoColor=FFFFFF"> <img src="https://img.shields.io/badge/-Yarn-2C8EBB?style=flat&logo=yarn&logoColor=FFFFFF"> <img src="https://img.shields.io/badge/-Sass-cc6699?style=flat&logo=sass&logoColor=ffffff">
+
+---
+
+## ✨ Pequenas curiosidades & humor
+
+- 🎧 Música favorita: troco dependendo do café (indie, eletrônico e rock fazem parte do cardápio).
+- 🐾 Mascote: tenho um espaço reservado no coração para pets — me conte sobre o seu!
+- 🎮 Hobby rápido: validar ideias com mini-projetos em 24h.
+- 💬 Motto de código: commits claros, comentários úteis e PRs com bom humor.
 
 ---
 
@@ -81,3 +92,36 @@ Escolha um tom que você curte e eu aplico no README inteiro.
 ---
 
 Check my detailed stats here: [Augusto Monteiro](https://github.com/augustojaml)
+
+---
+
+## 🚀 Expandindo (versão divertida & criativa)
+
+Aqui vai uma versão com mais personalidade, ícones e trechos que mostram como aprendo rápido e encaro desafios com criatividade:
+
+- 👨‍💻 Aprendizado turbo: consigo absorver conceitos novos e transformar em código utilizável em tempo recorde.
+- 🧩 Solução criativa: gosto de desenhar soluções simples para problemas complexos — protótipo rápido, validação e iteração.
+- ⚡ Produtividade: priorizo performance e UX, sem sacrificar manutenibilidade.
+
+🛠️ Mais stacks & ferramentas (pra deixar bonito nos repositórios):
+
+<img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white"> <img src="https://img.shields.io/badge/-PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white"> <img src="https://img.shields.io/badge/-Redis-dc382d?style=flat&logo=redis&logoColor=white"> <img src="https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql&logoColor=white"> <img src="https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwindcss&logoColor=white"> <img src="https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white"> <img src="https://img.shields.io/badge/-Photoshop-31A8FF?style=flat&logo=adobephotoshop&logoColor=white"> <img src="https://img.shields.io/badge/-Jira-0052CC?style=flat&logo=jira&logoColor=white">
+
+💡 Exemplos rápidos de competências (trechos curtinhos para I/O do README):
+
+- "Transformo um layout estático em experiência interativa com React/TypeScript em poucas horas." ⚛️
+- "Integro APIs REST/GraphQL e deixo o front preparado para dados em tempo real." 🔁
+- "Molduro WordPress para ser uma plataforma escalável quando o projeto pede." 🧱
+
+🎯 Desafio Jungle — por que olhar?
+
+- O repositório do desafio mostra como eu resolvo problemas: estrutura de pastas, scripts, e decisões técnicas comentadas.
+- Se quiser testar meus skills, rode o challenge localmente e me marque: eu faço um walkthrough ao vivo.
+
+> Repositório: https://github.com/augustojaml/jungle-fullstack-challenge
+
+🎯 Avaliação SmartSE — também vale a pena
+
+- Esse outro desafio mostra abordagens de avaliação e integrações práticas; bom para ver decisões de arquitetura e testes.
+
+> Repositório: https://github.com/augustojaml/avaliacao-smartse
