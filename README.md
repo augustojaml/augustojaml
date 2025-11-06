@@ -78,8 +78,6 @@ Quer ver código real? Dá uma olhada no desafio Jungle (lá tem provas das skil
 
 > https://github.com/augustojaml/jungle-fullstack-challenge
 
-📄 Tem um PDF com meu currículo? Coloque um arquivo chamado `curriculo.pdf` neste repositório (ou me envie) que eu extraio os principais pontos e atualizo este resumo automaticamente.
-
 ---
 
 ## ✨ Três opções de tom (escolha uma)
