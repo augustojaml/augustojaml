@@ -47,4 +47,37 @@ Quer deixar este README com ainda mais a “sua cara”? Me diga: hobbies, músi
 
 ---
 
+## 🎨 Destaques rápidos — versão divertida
+
+- Aprendo rápido: pego uma stack nova e já tô fazendo POC em poucas horas.
+- Criatividade aplicada: transformar briefing vago em layout com identidade.
+- Resolvo bugs com café e método científico (1) replicar (2) isolar (3) consertar.
+- Full‑stack hands-on: WordPress, PHP, HTML/CSS, JavaScript, React, Node.js, Express, TypeScript, MongoDB, MySQL.
+- Ferramentas que uso: Git, GitHub, VS Code, npm/Yarn, Sass.
+
+Quer ver código real? Dá uma olhada no desafio Jungle (lá tem provas das skills acima):
+
+> https://github.com/augustojaml/jungle-fullstack-challenge
+
+📄 Tem um PDF com meu currículo? Coloque um arquivo chamado `curriculo.pdf` neste repositório (ou me envie) que eu extraio os principais pontos e atualizo este resumo automaticamente.
+
+---
+
+## ✨ Três opções de tom (escolha uma)
+
+1. Zoado & leve
+
+   - "Sou o dev que conserta layout na madrugada e conta a história do projeto com GIFs." — rápido, curioso, criativo.
+
+2. Profissional criativo
+
+   - "Faço sites que contam histórias e funcionam: performance, acessibilidade e design alinhados." — aprende rápido e entrega valor.
+
+3. Direto & confiante
+   - "Rápido para aprender, bom em resolver problemas e focado em resultados mensuráveis." — hands‑on full‑stack.
+
+Escolha um tom que você curte e eu aplico no README inteiro.
+
+---
+
 Check my detailed stats here: [Augusto Monteiro](https://github.com/augustojaml)
