@@ -21,9 +21,17 @@ Sou desenvolvedor web na [Matraca Comunicação Criativa](https://matraca.com.br
 
 <img src="https://img.shields.io/badge/Wordpress-21759B?style=flat&logo=wordpress&logoColor=white"> <img src="https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white"> <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/-CSS-239120?&style=flat&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff"> <img src="https://img.shields.io/badge/-jQuery-0769AD?style=flat&logo=jquery&logoColor=white">
 
-🌱 Estou aprendendo / usando com frequência
+🚀 Stacks que domino & ferramentas de teste
 
-<img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=00c8ff"> <img src="https://img.shields.io/badge/-React_Native-282c34?style=flat&logo=react&logoColor=00c8ff"> <img src="https://img.shields.io/badge/-TypeScript-3178c6?style=flat&logo=typescript&logoColor=FFFFFF"> <img src="https://img.shields.io/badge/-Node.js-43853D?style=flat&logo=node.js&logoColor=FFFFFF"> <img src="https://img.shields.io/badge/-Express.js-787878?style=flat"> <img src="https://img.shields.io/badge/-MongoDB-4DB33D?style=flat&logo=mongodb&logoColor=FFFFFF">
+Estas são as stacks e ferramentas que uso com confiança no dia a dia:
+
+<img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=00c8ff"> <img src="https://img.shields.io/badge/-React_Native-282c34?style=flat&logo=react&logoColor=00c8ff"> <img src="https://img.shields.io/badge/-TypeScript-3178c6?style=flat&logo=typescript&logoColor=FFFFFF"> <img src="https://img.shields.io/badge/-Node.js-43853D?style=flat&logo=node.js&logoColor=FFFFFF"> <img src="https://img.shields.io/badge/-Express.js-787878?style=flat"> <img src="https://img.shields.io/badge/-MongoDB-4DB33D?style=flat&logo=mongodb&logoColor=FFFFFF"> <img src="https://img.shields.io/badge/-PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white"> <img src="https://img.shields.io/badge/-Redis-dc382d?style=flat&logo=redis&logoColor=white"> <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white">
+
+Ferramentas de teste e qualidade que uso regularmente:
+
+<img src="https://img.shields.io/badge/-Jest-C21325?style=flat&logo=jest&logoColor=white"> <img src="https://img.shields.io/badge/-Cypress-17202C?style=flat&logo=cypress&logoColor=white"> <img src="https://img.shields.io/badge/-Playwright-000000?style=flat&logo=playwright&logoColor=white"> <img src="https://img.shields.io/badge/-Testing_Library-ff7b00?style=flat&logo=testinglibrary&logoColor=white"> <img src="https://img.shields.io/badge/-ESLint-4B32C3?style=flat&logo=eslint&logoColor=white">
+
+— pronto: passei essa seção para mostrar domínio e inclui ferramentas de teste/qualidade.
 
 📚 Próximas aventuras que quero dominar
 
