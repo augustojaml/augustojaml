@@ -4,7 +4,7 @@
 
 🌿 **Frase-tema:** "A vida feliz consiste na tranquilidade da mente." ✨🧘‍♂️
 
-Sou desenvolvedor web na [Matraca Comunicação Criativa](https://matraca.com.br) — gosto de transformar ideias em sites rápidos, responsivos e com boa história.
+Sou desenvolvedor web na FullStack — gosto de transformar ideias em sites rápidos, responsivos e com boa história.
 
 ### Onde me encontrar 🌍
 
